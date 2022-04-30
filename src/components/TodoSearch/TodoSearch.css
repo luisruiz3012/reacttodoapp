@@ -1,0 +1,21 @@
+.todoSearch {
+    display: flex;
+    justify-content: center;
+}
+
+.todoSearch input {
+    text-align: center;
+    height: 40px;
+    width: 80%;
+    border: 2px solid rgb(167, 167, 167);
+    outline: none;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    box-shadow: 6px 5px #33333365;
+    background-color: rgb(88, 125, 247);
+}
+
+.todoSearch input:focus {
+    border: 3px solid rgb(6, 223, 168);
+}

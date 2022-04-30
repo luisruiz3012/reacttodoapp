@@ -1,0 +1,15 @@
+.todoList {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+}
+
+.todoList ul {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 0;
+    justify-content: center;
+    align-items: center;
+}

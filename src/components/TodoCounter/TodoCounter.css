@@ -1,0 +1,30 @@
+.todoCounter {
+    padding: 20px;
+}
+
+.todoCounter h2 {
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: white;
+    border: 2px solid rgba(66, 219, 168, 0.945);
+    background-color: rgb(88, 125, 247);
+    padding: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 6px 4px #33333365;
+    text-shadow: 6px 4px rgba(15, 15, 15, 0.24);
+}
+
+.todoCounter h3 {
+    font-size: 24px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 10px;
+    text-shadow: 6px 4px rgba(15, 15, 15, 0.24);
+}

@@ -1,0 +1,37 @@
+.todoItem {
+    background-color: rgb(88, 125, 247);
+    margin: 15px;
+    list-style: none;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    box-shadow: 6px 5px #33333365;
+    border-radius: 10px;
+    font-size: 18x;
+    width: 85%;
+}
+
+.close {
+    color: rgb(255, 0, 0);
+    font-weight: bolder;
+    font-size: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.done {
+    margin: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.completed {
+    color: rgb(31, 231, 4);
+}
+
+.completed-text {
+    text-decoration: line-through;
+}
