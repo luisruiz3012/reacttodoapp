@@ -5,7 +5,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    width: 50%;
+    width: 80%;
     height: 30%;
     border-radius: 10px;
     background-color: rgba(253, 253, 253, 0.733);
@@ -13,7 +13,7 @@
 
 .form textarea {
     width: 90%;
-    height: 70px;
+    height: 80px;
     border: none;
     margin-bottom: 20px;
     font-size: 16px;
